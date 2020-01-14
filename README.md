@@ -10,15 +10,14 @@ The majority of earthquakes in Oklahoma are caused by the industrial practice​
 The purpose of this project is to prove that waste water disposal is the contributing factor to the earthquakes.
 
 ## Scope of Work
-
-Date range is from 2013 - 2018
-Earthquake recording of magnitude 2.5 or higher only
+* Date range is from 2013 - 2018
+* Earthquake recording of magnitude 2.5 or higher only
 
 ## Sources
 
-United States Geological Survey
-The University of Oklahoma Geological Survey
-Oklahoma Corporation Commission
+* United States Geological Survey
+* The University of Oklahoma Geological Survey
+* Oklahoma Corporation Commission
 
 ### Copyright
 
