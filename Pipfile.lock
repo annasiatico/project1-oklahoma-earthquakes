@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "362de44167a8ae81bf8c772a3ce0d37ef457cbecb9530fdc2690e3e24cb323c4"
+            "sha256": "8f4e555d714a4caefc6bc813900caca1e36af5b5abba31f37513d3572b241acd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -28,7 +28,7 @@
                 "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
                 "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
             ],
-            "markers": "sys_platform == 'darwin'",
+            "markers": "platform_system == 'Darwin'",
             "version": "==0.1.0"
         },
         "attrs": {
@@ -418,6 +418,14 @@
             ],
             "version": "==2.5.2"
         },
+        "pymysql": {
+            "hashes": [
+                "sha256:3943fbbbc1e902f41daf7f9165519f140c4451c179380677e6a848587042561a",
+                "sha256:d8c059dcd81dedb85a9f034d5e22dcb4442c0b201908bede99e306d65ea7c8e7"
+            ],
+            "index": "pypi",
+            "version": "==0.9.3"
+        },
         "pyparsing": {
             "hashes": [
                 "sha256:4c830582a84fb022400b85429791bc551f1f4871c33f23e44f353119e92f969f",
@@ -521,11 +529,11 @@
         },
         "rise": {
             "hashes": [
-                "sha256:1bb309abc56612bea939f080167fd2598dc1d33f7fa35c2246839cd3461ec1a8",
-                "sha256:e20e475ef06a12baec380c1a00bf15b8565047cedfbcbabd40ad68ea158de7ab"
+                "sha256:50bafc0715ec9ccdfea5b20262536e9bc9ec397c627a8cca21e43dda2e78779d",
+                "sha256:68a32af51dbd92bc7dfeae406301b0f810434fa64f213e363821f065c58b2f26"
             ],
             "index": "pypi",
-            "version": "==5.6.1.dev2"
+            "version": "==5.6.1.dev3"
         },
         "scipy": {
             "hashes": [
@@ -566,6 +574,13 @@
                 "sha256:30f610279e8b2578cab6db20741130331735c781b56053c59c4076da27f06b66"
             ],
             "version": "==1.13.0"
+        },
+        "sqlalchemy": {
+            "hashes": [
+                "sha256:bfb8f464a5000b567ac1d350b9090cf081180ec1ab4aa87e7bca12dab25320ec"
+            ],
+            "index": "pypi",
+            "version": "==1.3.12"
         },
         "terminado": {
             "hashes": [
@@ -676,7 +691,7 @@
                 "sha256:5b26757dc6f79a3b7dc9fab95359328d5747fcb2409d331ea66d0272b90ab2a0",
                 "sha256:8b995ffe925347a2138d7ac0fe77155e4311a0ea6d6da4f5128fe4b3cbe5ed71"
             ],
-            "markers": "sys_platform == 'darwin'",
+            "markers": "platform_system == 'Darwin'",
             "version": "==0.1.0"
         },
         "attrs": {
