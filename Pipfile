@@ -17,6 +17,8 @@ ipykernel = "*"
 requests = "*"
 reverse-geocoder = "*"
 xlrd = "*"
+sqlalchemy = "*"
+pymysql = "*"
 
 [requires]
 python_version = "3.8"
