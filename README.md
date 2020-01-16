@@ -17,6 +17,13 @@ The purpose of this project is to prove that waste water disposal is the contrib
 
 ![WellsvsEQ](Wells_vs_Earthquakes.png)
 
+![VolumevsEQ](Volume_vs_EQevent.png)
+
+![Shakiest](ShakiestCity.png)
+
+![OKmap](ok_map.png)
+
+
 ## Sources
 
 * United States Geological Survey
