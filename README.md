@@ -15,7 +15,7 @@ The purpose of this project is to prove that waste water disposal is the contrib
 
 ## Plots
 * This plot show the number of wells and seismic activity per conuty
-![WellsvsEQ](Wells_vs_Earthquakes.png)
+* ![WellsvsEQ](Wells_vs_Earthquakes.png)
 
 ![VolumevsEQ](Volume_vs_EQevent.png)
 
