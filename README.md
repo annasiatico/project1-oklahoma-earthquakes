@@ -32,6 +32,7 @@ The purpose of this project is to prove that waste water disposal is the contrib
 
 * Total volume per year shows the correlation to seismic activity
 ![VolumevsEQ](Volume_vs_EQevent.png)
+![VolumevsEQ](Volumes_vs_EQevent_scatterplot.png)
 
 * City with the most seismic events
 ![Shakiest](ShakiestCity.png)
