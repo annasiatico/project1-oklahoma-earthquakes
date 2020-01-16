@@ -9,7 +9,7 @@ The majority of earthquakes in Oklahoma are caused by the industrial practice​
 
 The purpose of this project is to prove that waste water disposal is the contributing factor to the earthquakes.
 
-![OklahomaEarthquakes](https://www.youtube.com/watch?v=AIu3b0WhMgs&feature=youtu.be)
+[OklahomaEarthquakes](https://www.youtube.com/watch?v=AIu3b0WhMgs&feature=youtu.be)
 
 ## Hypothesis
 * Seismic events in the state of Oklahoma can be shown as being the direct result of unrestricted waste water disposal across the state during the onset lateral oil and gas development
