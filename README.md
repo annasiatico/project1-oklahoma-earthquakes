@@ -9,18 +9,32 @@ The majority of earthquakes in Oklahoma are caused by the industrial practice​
 
 The purpose of this project is to prove that waste water disposal is the contributing factor to the earthquakes.
 
+## Hypothesis
+* Seismic events in the state of Oklahoma can be shown as being the direct result of unrestricted waste water disposal across the state during the onset lateral oil and gas development
+
 ## Scope of Work
 * Date range is from 2013 - 2018
 * Earthquake recording of magnitude 2.5 or higher only
 
-## Plots
-* This plot show the number of wells and seismic activity per conuty
-* ![WellsvsEQ](Wells_vs_Earthquakes.png)
+## Methods
+* USGS api was used to acquire earthquake information
+* OCC website was used as the source for UIC volumes by month, well, and yearly totals
+* OU was used to acquire earthquake data to cross reference USGS dataset
+* We used the reverse geocoding module to generate a city list to associate with the lat/longs from events
+* Accessed Openstreet map and used geocode from USGS data to plot the wells and events on a map for a good visual 
+* We used the glob method to import the excel files for merging
 
+## Plots
+* The number of wells and seismic activity per conuty
+![WellsvsEQ](Wells_vs_Earthquakes.png)
+
+* Total volume per year shows the correlation to seismic activity
 ![VolumevsEQ](Volume_vs_EQevent.png)
 
+* City with the most seismic events
 ![Shakiest](ShakiestCity.png)
 
+* The highest amount of earthquakes occured in Grant County, highest number of wells is in Carter County. The red indicates seismic activity, blue indicates disposal wells.
 ![OKmap](ok_map.png)
 
 ## Observations
@@ -50,6 +64,7 @@ The purpose of this project is to prove that waste water disposal is the contrib
 * United States Geological Survey
 * The University of Oklahoma Geological Survey
 * Oklahoma Corporation Commission
+* Openstreet map 
 
 ### Copyright
 
