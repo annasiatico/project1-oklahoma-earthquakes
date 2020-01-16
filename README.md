@@ -13,6 +13,10 @@ The purpose of this project is to prove that waste water disposal is the contrib
 * Date range is from 2013 - 2018
 * Earthquake recording of magnitude 2.5 or higher only
 
+## Plots
+
+![WellsvsEQ](Wells_vs_Earthquakes.png)
+
 ## Sources
 
 * United States Geological Survey
