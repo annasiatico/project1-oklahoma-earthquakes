@@ -61,16 +61,13 @@ The purpose of this project is to prove that waste water disposal is the contrib
 		are observed effects, i.e. real estate market trends in high event areas to determine 
 		effect of seismicity on other valuation
 
-*	Likely there is a relationship between depth of injectino and seismic event frequency since certain formations are more frequently linked to deep basement faults. These fault systems are likely the ones that are critically stressed and result in the largest event magnitudes
+*	Likely there is a relationship between depth of injection and seismic event frequency since certain formations are more frequently linked to deep basement faults. These fault systems are likely the ones that are critically stressed and result in the largest event magnitudes
       
 *  Suggestions for future work include:
 
-		1.  overlaying USGS fault coordinates on map to establish proximity relationship 
-		to injectors
+		1.  Investigating aforementioned effects on outside industry
 
-		2.  investigating aforementioned effects on outside industry
-
-		3.  pump rates in seismically active areas
+		2.  Pump rates in seismically active areas
 
 ## Sources
 
