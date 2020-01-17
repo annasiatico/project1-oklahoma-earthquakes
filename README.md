@@ -7,8 +7,7 @@ In a few cases, yes, but in most cases no. Only a few of the over 2000 magnitude
 
 The majority of earthquakes in Oklahoma are caused by the industrial practice​ known as "wastewater disposal". Wastewater disposal is a ​separate ​process in which fluid waste from oil and gas production is injected deep underground far below ground water or drinking water aquifers. In Oklahoma over 90% of the wastewater that is injected is a byproduct of oil extraction process and not waste frack fluid.
 
-The purpose of this project is to prove that waste water disposal is the contributing factor to the earthquakes.
-
+This short video explains why this is happening across the U.S. and who scientists think the culprits are:
 [Oklahoma Earthquakes](https://www.youtube.com/watch?v=AIu3b0WhMgs&feature=youtu.be)
 
 ## Hypothesis
