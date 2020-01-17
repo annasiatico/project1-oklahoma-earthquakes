@@ -27,16 +27,14 @@ The purpose of this project is to prove that waste water disposal is the contrib
 * We used the glob method to import the excel files for merging
 
 ## Plots
-* The number of wells and seismic activity per conuty
+* The number of wells and seismic activity per county
 ![WellsvsEQ](Wells_vs_Earthquakes.png)
-
+![WellsvsEQ](Volumes_vs_EQevent_scatterplot.png)
 * Total volume per year shows the correlation to seismic activity
 ![VolumevsEQ](Volume_vs_EQevent.png)
 ![VolumevsEQ](Volumes_vs_EQevent_scatterplot.png)
-
 * City with the most seismic events
 ![Shakiest](ShakiestCity.png)
-
 * The highest amount of earthquakes occured in Grant County, highest number of wells is in Carter County. The red indicates seismic activity, blue indicates disposal wells.
 ![OKmap](ok_map.png)
 
@@ -46,17 +44,25 @@ The purpose of this project is to prove that waste water disposal is the contrib
 
 *  The correlation observed on a state level begins to break down on a county level
 
-		1. The breakdown in the state wide correlation at the county level suggests there are other controlling parameters such as underlying geologic complexity, total volume per well, or the amount injected in a given period of time
+		1. The breakdown in the state wide correlation at the county level suggests 
+		there are other controlling parameters such as underlying geologic complexity, 
+		total volume per well, or the amount injected in a given period of time
 
-		2. Since the Total Volume was observed to control the upward trending seismic event count the well number doesn't appear to be a controlling factor, but rather the total amount in a given well
+		2. Since the Total Volume was observed to control the upward trending seismic 
+		event count the well number doesn't appear to be a controlling factor, but rather 
+		the total amount in a given well
 
-		3. The 'total event per city' plot corroborates the 'events per county' plot and compel our group to suggest investigation of other industry trends to see if there are observed effects, i.e. real estate market trends in high event areas to determine effect of seismicity on other valuation
+		3. The 'total event per city' plot corroborates the 'events per county' plot and 
+		compel our group to suggest investigation of other industry trends to see if there 
+		are observed effects, i.e. real estate market trends in high event areas to determine 
+		effect of seismicity on other valuation
 
 *	Likely there is a relationship between depth of injectino and seismic event frequency since certain formations are more frequently linked to deep basement faults. These fault systems are likely the ones that are critically stressed and result in the largest event magnitudes
       
 *  Suggestions for future work include:
 
-		1.  overlaying USGS fault coordinates on map to establish proximity relationship to injectors
+		1.  overlaying USGS fault coordinates on map to establish proximity relationship 
+		to injectors
 
 		2.  investigating aforementioned effects on outside industry
 
@@ -71,4 +77,4 @@ The purpose of this project is to prove that waste water disposal is the contrib
 
 ### Copyright
 
-University of Texas, Data Analytics and Visualization Bootcamp © 2020
+University of Texas, Data Analytics and Visualization Bootcamp, Team Frac © 2020
