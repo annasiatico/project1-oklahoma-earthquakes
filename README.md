@@ -29,7 +29,7 @@ The purpose of this project is to prove that waste water disposal is the contrib
 ## Plots
 * The number of wells and seismic activity per county
 ![WellsvsEQ](Wells_vs_Earthquakes.png)
-![WellsvsEQ](WellsCount_vs_EQEvents.png.png)
+![WellsvsEQ](WellsCount_vs_EQEvents.png)
 
 * Total volume per year shows the correlation to seismic activity
 ![VolumevsEQ](Volume_vs_EQevent.png)
