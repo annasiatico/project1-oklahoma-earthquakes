@@ -30,13 +30,17 @@ The purpose of this project is to prove that waste water disposal is the contrib
 * The number of wells and seismic activity per county
 ![WellsvsEQ](Wells_vs_Earthquakes.png)
 ![WellsvsEQ](Volumes_vs_EQevent_scatterplot.png)
+
 * Total volume per year shows the correlation to seismic activity
 ![VolumevsEQ](Volume_vs_EQevent.png)
 ![VolumevsEQ](Volumes_vs_EQevent_scatterplot.png)
+
 * City with the most seismic events
 ![Shakiest](ShakiestCity.png)
+
 * The highest amount of earthquakes occured in Grant County, highest number of wells is in Carter County. The red indicates seismic activity, blue indicates disposal wells.
 ![OKmap](ok_map.png)
+![OKmap](OK_county_map_withdata.jpg)
 
 ## Observations
 
