@@ -28,6 +28,8 @@ This short video explains why this is happening across the U.S. and who scientis
 ## Plots
 * The number of wells and seismic activity per county
 ![WellsvsEQ](Wells_vs_Earthquakes.png)
+
+* The yellow dot represents Carter county, red dot represents Grant County
 ![WellsvsEQ](WellsCount_vs_EQEvents.png)
 
 * Total volume per year shows the correlation to seismic activity
